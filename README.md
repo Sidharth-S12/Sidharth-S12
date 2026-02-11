@@ -3,14 +3,10 @@
 
 🎓 Computer Science Student
 
-
 🎨 Design Enthusiast
-
 
 📚 Passionate about Continuous Learning
 
-
 🚀 Always Learning, Always Improving
-
 
 🗣️ Good Communication Skills
