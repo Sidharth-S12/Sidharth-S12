@@ -9,8 +9,6 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=120&section=header&text=BLACK%20HACKER%20MODE&fontSize=28&fontColor=00FF9C" />
-
 </div>
 
 ---
