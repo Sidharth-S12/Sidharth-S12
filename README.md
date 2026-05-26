@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="color:#00FF9C; font-size:50px; font-family:monospace;">> Hello World, I'm <span style="color:#00E5FF">Sidharth</span> 👾</h1>
-<h3 style="color:#B0B0B0; font-family:monospace;">🖤 Cyber Dev | 💻 CS Student | ⚡ Hacker Mindset | 🎨 Dark UI Lover</h3>
+<h3 style="color:#B0B0B0; font-family:monospace;">| 💻 CS Student | Website developer</h3>
 
 <br>
 
@@ -56,10 +56,8 @@
 
 > Master Data Structures & Algorithms
 > Build real-world full-stack systems
-> Develop hacker-grade problem solving
 > Contribute to open-source
 > Create dark UI/UX projects
-> Build a powerful dev portfolio
 
 </div>
 
